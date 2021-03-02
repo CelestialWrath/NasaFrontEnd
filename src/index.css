@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container{
+  margin: 20px;
+
+}
+
+.title{
+  margin: 20px;
+}
+
+.image{
+  margin: 20px;
+}
+
+.description{
+  margin: 20px;
+}
+
+.youtube-player{
+  margin: 20px;
+}
+
+.LatitudeText{
+  margin: 10px;
+}
+
+.LongitudeText{
+  margin: 10px;
+}
+
+.Button{
+  width: 60px;
+  margin: 10px;
+}
